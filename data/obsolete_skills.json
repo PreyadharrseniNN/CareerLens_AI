@@ -1,0 +1,13 @@
+{
+  "jQuery": "React or Vue.js",
+  "AngularJS": "Angular (2+) or React",
+  "SVN": "Git",
+  "CVS": "Git",
+  "Hadoop": "Spark or Snowflake",
+  "Flash": "HTML5 / Canvas",
+  "Objective-C": "Swift",
+  "CoffeeScript": "TypeScript",
+  "Visual Basic": "C# or Python",
+  "XML": "JSON",
+  "SOAP": "REST API or GraphQL"
+}

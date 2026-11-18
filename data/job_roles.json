@@ -1,0 +1,8 @@
+{
+  "Software Engineer": ["Python", "Java", "C++", "Git", "Docker", "REST API", "SQL"],
+  "Frontend Developer": ["HTML", "CSS", "JavaScript", "React", "Angular", "Vue", "TypeScript", "Bootstrap"],
+  "Backend Developer": ["Node.js", "Django", "Flask", "Spring Boot", "MySQL", "PostgreSQL", "MongoDB", "AWS"],
+  "Data Scientist": ["Python", "Machine Learning", "Pandas", "NumPy", "SQL", "Scikit-Learn", "Deep Learning", "TensorFlow"],
+  "DevOps Engineer": ["Docker", "Kubernetes", "AWS", "Azure", "GCP", "CI/CD", "Jenkins", "Linux"],
+  "Product Manager": ["Agile", "Scrum", "JIRA", "Communication", "Leadership", "Project Management"]
+}

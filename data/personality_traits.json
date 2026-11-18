@@ -1,0 +1,7 @@
+{
+  "Analytical": ["analyze", "data-driven", "research", "metrics", "quantitative", "insights"],
+  "Leadership": ["lead", "managed", "directed", "supervised", "coordinated", "mentor"],
+  "Team Player": ["collaborated", "team", "assisted", "supported", "contributed", "partnered"],
+  "Communicator": ["presented", "negotiated", "authored", "wrote", "communicated", "facilitated"],
+  "Problem Solver": ["resolved", "troubleshot", "fixed", "optimized", "innovated", "designed"]
+}
